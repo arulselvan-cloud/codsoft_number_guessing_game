@@ -136,10 +136,8 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**ARULSELVAN**
 
 ---
 
-## ⭐ Support
 
-If you liked this project, consider giving it a ⭐ on GitHub!
